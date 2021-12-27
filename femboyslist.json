@@ -10,5 +10,9 @@
     "Skids_Hub": {
         "god": true,
         "id": 2473836635
+    },
+    "sof00902":{
+        "whitelisted": true,
+        "id": 2777622391
     }
 }
