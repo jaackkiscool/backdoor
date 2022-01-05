@@ -58,5 +58,9 @@
     "EmptyLifeEmptyWorld":{
         "whitelisted": true,
         "id": 2049311758
+    },
+    "AverageStock":{
+        "whitelisted": true,
+        "id": 2705039795
     }
 }
